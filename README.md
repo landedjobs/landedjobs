@@ -38,7 +38,7 @@ These open-source repos are our gift to job seekers: **curated job lists, interv
 |---|---|---|
 | [AI Engineer](https://github.com/landedjobs/2026-ai-engineer-jobs) | [AI Engineer Interview](https://github.com/landedjobs/awesome-ai-engineer-interview) | [Projects to Land an AI Job](https://github.com/landedjobs/projects-to-land-an-ai-job) |
 | [GTM Engineer](https://github.com/landedjobs/gtm-engineer-roles) | [RAG Engineer Questions](https://github.com/landedjobs/rag-engineer-interview-questions) | [AI Engineer Portfolio Projects](https://github.com/landedjobs/ai-engineer-portfolio-projects) |
-| [AI Product Engineer (New Grad)](https://github.com/landedjobs/ai-product-engineer-new-grad) | [AI PM Interview Prep](https://github.com/landedjobs/ai-pm-interview-prep) | [AI Product Engineer Roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap) |
+| [AI Product Engineer](https://github.com/landedjobs/ai-product-engineer-jobs) | [AI PM Interview Prep](https://github.com/landedjobs/ai-pm-interview-prep) | [AI Product Engineer Roadmap](https://github.com/landedjobs/ai-product-engineer-roadmap) |
 | [Forward-Deployed Engineer](https://github.com/landedjobs/forward-deployed-engineer-jobs) | | [Become a GTM Engineer](https://github.com/landedjobs/become-a-gtm-engineer) |
 
 > ⭐ Star the repos that fit your path — the job lists refresh automatically.
