@@ -4,7 +4,7 @@
 
 ### The job market is being rewritten. We help you land on the right side of it.
 
-*Scout AI-native roles · get **referred** · prep with mock interviews · actually land the job.*
+*Fresh AI-native roles matched to you daily · agent-drafted application answers · mock-interview prep.*
 
 <br/>
 
@@ -75,7 +75,7 @@ These open-source repos are our gift to job seekers: **curated job lists, interv
 
 <div align="center">
 
-### Don't just apply. Get **referred**, get **prepped**, get **Landed**.
+### Stop spraying. Get **matched**, get **prepped**, get **Landed**.
 
 [![Get Started](https://img.shields.io/badge/Get%20Started%20Free-→-6C2BD9?style=for-the-badge)](https://landed.jobs)
 
